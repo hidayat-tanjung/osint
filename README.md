@@ -1,17 +1,3 @@
-# Python Security Tools 🛡️
-
-A collection of ethical security tools written in Python for penetration testing, defensive security, and automation.
-
-## 📦 Tools Included
-
-| Tool | Description |
-|------|------------|
-| [Port Scanner](#port-scanner) | Scan for open ports on a target host |
-| [Directory Bruteforcer](#directory-bruteforcer) | Discover hidden web directories |
-| [Password Checker](#password-checker) | Check password against breached databases |
-| [Log Analyzer](#log-analyzer) | Detect suspicious activity in log files |
-| [Backup Checker](#backup-checker) | Verify backup freshness and existence |
-
 ## 🚀 Getting Started
 
 ### Prerequisites
